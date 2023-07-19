@@ -1,1 +1,1 @@
-print('Hello, I am EVIL BUG!')
+print('Hello world!')
